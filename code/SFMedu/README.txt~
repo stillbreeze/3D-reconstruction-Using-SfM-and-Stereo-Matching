@@ -1,0 +1,5 @@
+Run SFMedu2.m
+
+It calls full_pipeline() with several parameters 
+including dataset parameter, visualization parameter, visualize
+reprojection images boolean, dense reconstruction boolean (off by default to save time)
